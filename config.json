@@ -1,0 +1,19 @@
+{
+"mysql":{
+    "host":"10.176.38.221",
+    "user":"root",
+    "password":"123456",
+    "database":"zhongxing",
+    "port": 3313
+}, "es":{
+    //"host":"220.248.36.54",
+    "host":"10.176.38.221",
+    "port":9200
+},"mysql2":{
+    "host":"10.176.38.221",
+    "user":"root",
+    "password":"123456",
+    "database":"zhongxing",
+    "port": 3313
+}
+}
